@@ -5,7 +5,7 @@
 }
 
 .container{
-    max-width: 96px;
+    max-width: 960px;
     margin: auto;
 }
 
@@ -60,7 +60,8 @@
     background-size: cover;
     background-position: center;
     min-height: 380px;
-    border-radius: 4px; 
+    border-radius: 4px;
+    
 }
 
 #right-content{
